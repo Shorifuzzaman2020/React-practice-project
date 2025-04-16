@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/m56ZR2Dt/1733836008610.png",
+      "title": "The Silent Observer",
+      "author_img": "https://i.ibb.co.com/m56ZR2Dt/1733836008610.png",
+      "author": "Amelia Bright",
+      "posted_date": "2025-03-01",
+      "reading_time": 5,
+      "hashtags": ["#psychology", "#mindfulness", "#selfgrowth"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/m56ZR2Dt/1733836008610.png",
+      "title": "Journey Beyond the Stars",
+      "author_img": "https://i.ibb.co.com/m56ZR2Dt/1733836008610.png",
+      "author": "Kai Jensen",
+      "posted_date": "2025-02-21",
+      "reading_time": 8,
+      "hashtags": ["#sciencefiction", "#space", "#adventure"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/m56ZR2Dt/1733836008610.png",
+      "title": "Whispers in the Code",
+      "author_img": "https://i.ibb.co.com/m56ZR2Dt/1733836008610.png",
+      "author": "Sierra Moore",
+      "posted_date": "2025-03-15",
+      "reading_time": 6,
+      "hashtags": ["#technology", "#AI", "#cybersecurity"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/m56ZR2Dt/1733836008610.png",
+      "title": "The Forgotten Garden",
+      "author_img": "https://i.ibb.co.com/m56ZR2Dt/1733836008610.png",
+      "author": "Liam Carter",
+      "posted_date": "2025-01-10",
+      "reading_time": 7,
+      "hashtags": ["#nature", "#mystery", "#history"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/m56ZR2Dt/1733836008610.png",
+      "title": "Echoes of the Past",
+      "author_img": "https://i.ibb.co.com/m56ZR2Dt/1733836008610.png",
+      "author": "Nora Hayes",
+      "posted_date": "2025-04-01",
+      "reading_time": 10,
+      "hashtags": ["#history", "#drama", "#warstories"]
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co.com/m56ZR2Dt/1733836008610.png",
+      "title": "Winds of Tomorrow",
+      "author_img": "https://i.ibb.co.com/m56ZR2Dt/1733836008610.png",
+      "author": "Ezra Cole",
+      "posted_date": "2025-03-25",
+      "reading_time": 4,
+      "hashtags": ["#inspiration", "#future", "#hope"]
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co.com/m56ZR2Dt/1733836008610.png",
+      "title": "Coded Emotions",
+      "author_img": "https://i.ibb.co.com/m56ZR2Dt/1733836008610.png",
+      "author": "Isla Bennett",
+      "posted_date": "2025-04-10",
+      "reading_time": 6,
+      "hashtags": ["#programming", "#emotions", "#humanAI"]
+    }
+  ]
+  
